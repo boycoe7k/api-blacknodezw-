@@ -1,0 +1,19 @@
+{
+  "name": "blacknodezw-api",
+  "version": "1.0.0",
+  "description": "Black Node ZW API Backend - 30+ real working endpoints",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "firebase-admin": "^12.2.0",
+    "form-data": "^4.0.0",
+    "node-fetch": "^2.7.0",
+    "qrcode": "^1.5.3",
+    "uuid": "^10.0.0"
+  }
+}
